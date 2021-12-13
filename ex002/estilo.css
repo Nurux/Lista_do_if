@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background: rgb(11, 186, 199);
+    font-size: 18px;
+    font-family: normal, 'Arial', sans-serif;
+    color: white;
+}
+
+section{
+    width: 900px;
+    height: 200px;
+    background: white;
+    margin: auto;
+    border-radius: 10px;
+}
+
+footer{
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px;
+    margin: 1px;
+    background: gray;
+    color: white;
+    font-style: bold;
+}
+
+a:hover{
+    background: #f0ffff;
+    color: gray;
+}
+
+#menu{
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+    background: #ccc;
+    
+}
